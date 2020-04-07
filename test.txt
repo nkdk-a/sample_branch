@@ -1,3 +1,4 @@
-<first>
+<first test>
 this is branch test
-このテストファイルを用いていくつかのテストを行います。
+このテストファイルを用いていくつかテストを行います。
+add_secondブランチで追加した文言です。
